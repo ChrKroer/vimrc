@@ -1,0 +1,9 @@
+[submodule "sources_non_forked/vim-cpplint"]
+	path = sources_non_forked/vim-cpplint
+	url = https://github.com/funorpain/vim-cpplint.git
+[submodule "sources_non_forked/vim-clang-format"]
+	path = sources_non_forked/vim-clang-format
+	url = https://github.com/rhysd/vim-clang-format.git
+[submodule "sources_non_forked/vim-autoformat"]
+	path = sources_non_forked/vim-autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
